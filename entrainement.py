@@ -4,7 +4,7 @@
 # print("+ d'info")
 # print(sys.version_info)
 
-# from datetime import date
+# from datetime import date 
 # today = date.today()
 # print("La date d'aujourd'hui est : ", today)
 
@@ -12,3 +12,4 @@
 # r=1.1
 # aire = pi*r*r
 # print(aire)
+
